@@ -10,7 +10,7 @@ const questions = [
       "Just a drink",
       "Everything on the menu"
     ],
-    correctAnswer: 2,
+    correctAnswer: 1,
     explanation: "We both know it's always a burger with extra fries! 🍔"
   },
   {
@@ -21,7 +21,7 @@ const questions = [
       "Both equally terrifying",
       "Neither, I'm always adorable"
     ],
-    correctAnswer: 2,
+    correctAnswer: 1,
     explanation: "The correct answer is both, but you handle them like a champ! 😊"
   },
   {
@@ -32,7 +32,7 @@ const questions = [
       "Just being on the sofa doing nothing",
       "All of the above"
     ],
-    correctAnswer: 4,
+    correctAnswer: 3,
     explanation: "Any time spent together is a perfect moment!"
   },
   {
@@ -43,7 +43,7 @@ const questions = [
       "First I disagree, but then I give in and agreed you are right",
       "I sleep"
     ],
-    correctAnswer: 3,
+    correctAnswer: 2,
     explanation: "You know you are right most of the time but I can't help but be stubborn sometimes😅"
   },
   {
@@ -54,7 +54,7 @@ const questions = [
       "You are so funny",
       "All of the above and more"
     ],
-    correctAnswer: 4,
+    correctAnswer: 3,
     explanation: "It's everything about you that makes you perfect! ❤️"
   }
 ];
